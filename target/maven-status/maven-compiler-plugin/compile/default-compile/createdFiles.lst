@@ -1,0 +1,13 @@
+com\test\database\DatabaseHandler.class
+com\test\entity\Employer.class
+com\test\entity\Vacancy.class
+com\test\database\impl\DatabaseHandlerImpl.class
+com\test\entity\Salary.class
+com\test\entity\VacancyDAO.class
+com\test\hhapi\ApiResponse.class
+com\test\database\impl\DBException.class
+com\test\hhapi\ApiHandler.class
+com\test\TestPortlet.class
+com\test\constants\SchemaNames.class
+com\test\entity\EmployerDAO.class
+com\test\Test.class

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Liferay-project:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Liferay-project</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="test-portlet-0.1.war">
+      <element id="artifact" artifact-name="Liferay-project:war exploded" />
+    </root>
+  </artifact>
+</component>
